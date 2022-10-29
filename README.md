@@ -2,10 +2,10 @@
 
 
 
-<div align=center>
+<div align=left>
 	<h3>🙌 Introduction 🙌</h3>
-	<p>응가</p>
-	<br>
+	<p>● 풀스택 개발자가 목표</p>
+	<p>● 재밌어서 공부하는거임 </p>
 </div>
 <div align=center>
 	<h3>✨ Skill ✨</h3>
