@@ -2,12 +2,12 @@
 
 
 
-<div align=left>
+<div align=center>
 	<h3>🙌 Introduction 🙌</h3>
 	<p>● 풀스택 개발자가 목표</p>
-	<p>● 재밌어서 공부하는거임 </p>
+	<p>● 재밌어서 공부하는중 → 즐기는 자가 일류다 → 나는 일류다</p>
 </div>
-###
+<br>
 <div align=center>
 	<h3>✨ Skill ✨</h3>
 </div>
