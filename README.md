@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align=center>
-	<h3>✨ Back-End ✨</h3>
+	<h3>⚙️ Back-End ⚙️</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
