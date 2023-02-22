@@ -21,9 +21,9 @@
 	<h3>💻 React Libraries 💻</h3>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Create React App-09D3AC?style=flat&logo=CreateReactApp&logoColor=white" />
-	<img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat&logo=ReactHookForm&logoColor=white" />
+	<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=ReactHookForm&logoColor=white" />
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=ReactRouter&logoColor=white" />
