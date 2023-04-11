@@ -1,4 +1,4 @@
-<img width="1512" alt="op" src="https://user-images.githubusercontent.com/113419018/231081603-52e62654-c344-41c6-bda6-702ad5e7db5c.png">
+<img width="650" alt="op_resize" src="https://user-images.githubusercontent.com/113419018/231088010-e65212ff-48c4-480d-bf25-7427638b6e93.png">
 
 <div align=center>
 	<h3>🙌 Introduction 🙌</h3>
