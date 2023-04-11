@@ -4,6 +4,11 @@
 	<h3>🙌 Introduction 🙌</h3>
 	<p>● 프론트엔드 개발자가 목표</p>
 	<p>● 재밌어서 공부하는중 → 즐기는 자가 일류다 → 나는 일류다</p>
+	
+</div>
+<br>
+<div align=center>
+	<h3>🏠 블로그 방문! 🏠</h3>
 	<a href="https://ou9999-next-js-blog.vercel.app/">OU9999's First Blog!</a>
 </div>
 <br>
