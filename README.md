@@ -6,7 +6,6 @@
 
 <div align=center>
 	<h3>🙌 Introduction 🙌</h3>
-	<p>● 프론트엔드 개발자가 목표</p>
 	<p>● 재밌어서 공부하는중 → 즐기는 자가 일류다 → 나는 일류다</p>
 	
 </div>
