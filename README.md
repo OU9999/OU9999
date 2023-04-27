@@ -2,13 +2,6 @@
 <div align=center>
 	<img width="650" alt="op_resize" src="https://user-images.githubusercontent.com/113419018/231088010-e65212ff-48c4-480d-bf25-7427638b6e93.png">
 </div>
-
-
-<div align=center>
-	<h3>🙌 Introduction 🙌</h3>
-	<p>● 재밌어서 공부하는중 → 즐기는 자가 일류다 → 나는 일류다</p>
-	
-</div>
 <br>
 <div align=center>
 	<h3>🏠 블로그 방문! 🏠</h3>
