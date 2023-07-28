@@ -5,7 +5,7 @@
 <br>
 <div align=center>
 	<h3>🏠 블로그 방문! 🏠</h3>
-	<a href="https://ou9999-next-js-blog.vercel.app/">OU9999's First Blog!</a>
+	<a href="https://ou9999-dev.vercel.app/">OU9999's First Blog!</a>
 </div>
 
 <br>
