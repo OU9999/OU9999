@@ -50,7 +50,7 @@ config:
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/name.png") !important;
     }
     .cardImage .nodeLabel span:nth-child(2) {
-      right: 69px;
+      right: 260px;
       top: 55px;
       width: 292px !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/phone.png") !important;
@@ -62,7 +62,7 @@ config:
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/site.png") !important;
     }
     .cardImage .nodeLabel span:nth-child(4) {
-      right: 69px;
+      right: 260px;
       bottom: 60px;
       width: 469px !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/email.png") !important;
