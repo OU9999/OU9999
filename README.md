@@ -68,7 +68,7 @@ config:
       left: 69px;
       bottom: 335px;
       width: 326px !important;
-      background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/site.png") !important;
+      background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/site-dev.png") !important;
     }
     .cardImage .nodeLabel span:nth-child(4) {
       right: 69px;
