@@ -1,1 +1,1 @@
-<img src="./assets/ou9999.png" alt="">
+<img src="./assets/ou9999-software-engineer.png" alt="">
