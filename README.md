@@ -13,12 +13,14 @@ config:
     .cardImage div {
       box-sizing: border-box;
       width: 1800px !important;
-      height: 1000px !important;
+      height: 1400px !important;
       display: block !important;
       position: relative !important;
+      background-color: #080808 !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/ou9999-card-bg.jpg") !important;
-      background-size: cover !important;
-      background-position: center !important;
+      background-size: 1800px 1000px !important;
+      background-position: center 130px !important;
+      background-repeat: no-repeat !important;
     }
     .cardImage .nodeLabel {
       display: block !important;
@@ -45,25 +47,25 @@ config:
     }
     .cardImage .nodeLabel span:nth-child(1) {
       left: 69px;
-      top: 55px;
+      top: 185px;
       width: 158px !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/name.png") !important;
     }
     .cardImage .nodeLabel span:nth-child(2) {
-      right: 260px;
-      top: 55px;
+      right: 69px;
+      top: 185px;
       width: 292px !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/phone.png") !important;
     }
     .cardImage .nodeLabel span:nth-child(3) {
       left: 69px;
-      bottom: 65px;
+      bottom: 335px;
       width: 216px !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/site.png") !important;
     }
     .cardImage .nodeLabel span:nth-child(4) {
-      right: 260px;
-      bottom: 60px;
+      right: 69px;
+      bottom: 330px;
       width: 469px !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/email.png") !important;
     }
