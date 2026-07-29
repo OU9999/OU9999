@@ -45,6 +45,13 @@ config:
       background-size: contain !important;
       user-select: text !important;
     }
+    .cardImage .nodeLabel span a {
+      display: block !important;
+      width: 100% !important;
+      height: 100% !important;
+      color: transparent !important;
+      text-decoration: none !important;
+    }
     .cardImage .nodeLabel span:nth-child(1) {
       left: 69px;
       top: 185px;
@@ -60,7 +67,7 @@ config:
     .cardImage .nodeLabel span:nth-child(3) {
       left: 69px;
       bottom: 335px;
-      width: 216px !important;
+      width: 326px !important;
       background-image: url("https://raw.githubusercontent.com/OU9999/OU9999/main/assets/card-text/site.png") !important;
     }
     .cardImage .nodeLabel span:nth-child(4) {
@@ -71,7 +78,7 @@ config:
     }
 ---
 block
-  visual["<span>OU9999</span><span>010-3625-0318</span><span>ou9999.me</span><span>omh232323@gmail.com</span>"]
+  visual["<span>OU9999</span><span>010-3625-0318</span><span><a href='https://ou9999-dev.com/' target='_blank' rel='noopener noreferrer'>ou9999-dev.com</a></span><span>omh232323@gmail.com</span>"]
 
   classDef cardImage fill:#080808,stroke:#080808,stroke-width:0px
   class visual cardImage
